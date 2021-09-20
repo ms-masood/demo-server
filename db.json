@@ -4,19 +4,21 @@
       "id": 1,
       "desc": "hello",
       "category": "T1",
-      "amount": "$400",
+      "amount": "400",
       "date": "12-09-2021"
-    },{
+    },
+    {
       "id": 2,
       "desc": "hello",
       "category": "T2",
-      "amount": "$700",
+      "amount": "700",
       "date": "12-09-2021"
-    },{
+    },
+    {
       "id": 3,
       "desc": "hello",
       "category": "T1",
-      "amount": "$200",
+      "amount": "200",
       "date": "12-09-2021"
     }
   ],
